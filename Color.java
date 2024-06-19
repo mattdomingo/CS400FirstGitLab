@@ -1,5 +1,8 @@
 /*
  *	Color class
+ *	Name: Matthew Domingo
+ *	Email: mgdomingo@wisc.edu
+ *	CS Account username: domingo
  */
 public class Color{
 	private String color;

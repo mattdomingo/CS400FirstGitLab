@@ -1,5 +1,8 @@
 /*
  * Test the use of the Color method
+ * Name: Matthew Domingo
+ * Email: mgdomingo@wisc.edu
+ * CS Account Username: domingo
  */
 import java.util.*;
 
